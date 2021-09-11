@@ -158,6 +158,16 @@ body {
 ul {
   padding: 0.5em;
 }
+#js {
+  background-color: crimson;
+  color: white;
+  font-style: italic;
+}
+#ecoute {
+  background-color: green;
+  color: white;
+  font-style: italic;
+}
 /* profile pic*/
 img {
   width: 100%;
