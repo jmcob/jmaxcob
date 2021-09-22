@@ -35,6 +35,12 @@ header h1 {
   color: crimson;
 }
 
+#gold {
+  color: gold;
+  font-size: 25px;
+  font-family: monospace;
+}
+
 footer {
   text-align: center;
   margin: 50px;
@@ -42,14 +48,14 @@ footer {
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "avenir", sans-serif;
   margin: 0px;
-  font-size: larger;
+  font-size: large;
 }
 
 main {
   display: flex;
-  margin: 3rem;
+  margin: 3.5rem;
   flex-direction: row;
 }
 
